@@ -1,5 +1,5 @@
 import sqlite3
-db = sqlite3.connect('C:/Users/roshe/PycharmProjects/pythonProject3/data_base_test.db',check_same_thread=False)
+db = sqlite3.connect('pythonProject3/data_base_test.db',check_same_thread=False)
 cursor = db.cursor()
 cursor.execute("""CREATE TABLE IF NOT EXISTS Students (
     telegram_id integer PRIMARY KEY,
