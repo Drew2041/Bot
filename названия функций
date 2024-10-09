@@ -1,0 +1,16 @@
+Show - инфа о пользователе
+StartMenu - стартовое меню
+Register - Начало регистрации, узнает имя
+RegisterUser - узнает тип юзера
+CheckUser - ищет не зареган ли пользователь
+Delite_user_maybe - пользователь уже зареган, предлагает удалить
+Delite_user - удаляет его
+RegisterUserType - узнает кто пользователь(тип)
+RegisterTeacher - регает учителя, делает для него таблицы
+TeacherMenu - меню учителей
+RegisterParent - родитель выбирает класс ученика
+ShowFreeStudents - показывает учеников без родителей
+LinkStudentToParent - обновляет в таблице с учеником уго родителя
+RegisterStudent - узнает класс ученика
+RegisterStudentClass - заносит ученика в бд
+StudentMenu - меню ученика
